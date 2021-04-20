@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+#btn-prod{
+    margin-top: 2%;
+    margin-bottom: 0px;
+}
+
+.table-responsive{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+a, a:hover{
+    text-decoration: none;
+    color: rgb(26, 37, 189);
+}
+
+.form{
+    padding-top: 60px;
+    padding-bottom: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
